@@ -13,4 +13,8 @@ public class GitClass {
     public void test(){
         System.out.println("hello git world");
     }
+    
+    public void test2(){
+        System.out.println("class changed");
+    }
 }
